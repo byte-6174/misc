@@ -27,7 +27,7 @@ destination_string = "METHINKS IT IS LIKE A WEASEL"
 # This is the rate at which each "genetic" string in this simulation has chance of mutating.
 mutation_rate = 0.01
 
-# This is the amount of children each parent have to generate the next generation.
+# This is the number of children each parent have to generate the next generation.
 num_children = 100
 
 #----------------------------------------------------------------------------------------------
